@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Havie
 - 👀 I’m interested in making games inspired by Romance of the Three Kingdoms 
 - 🌱 I’m currently an Associate Designer
-- 💞️ I’m looking to collaborate on games that incorporate city building with intricate combat.
+- 💞️ I’m looking to collaborate on games that incorporate city building with tactical combat.
 - 📫 Reach me at sfdatz@live.com
 
 <!---
